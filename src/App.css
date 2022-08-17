@@ -159,7 +159,7 @@ form {
 }
 
 .custom_arrow {
-  background-color: var(--accent);
+  background-color: var(--primary-color);
   height: 100%;
   width: 6rem;
   display: block;
